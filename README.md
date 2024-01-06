@@ -1,11 +1,11 @@
 [![MasterHead](https://repository-images.githubusercontent.com/304958084/463f1493-9929-4dfe-b279-4fdfa3190372)](https://amro-alasri.github.io/)
 
-<h1 align="center">Hi 👋, I'm Amro Ahmed Alasir</h1>
+<h1 align="center">Hi 👋, I'm Amro Ahmed Alasri</h1>
 <h3 align="center">Software Engineer | Machine Learning and Backend Development | Expert in Python, Golang, C++, JavaScript, Rust, TypeScript</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Machan Learning**
+- 🔭 I’m currently working on **Machine  Learning**
 
 - 🌱 I’m currently learning **Advance NLP**
 
