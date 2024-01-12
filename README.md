@@ -5,11 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Machine  Learning**
-
 - 🌱 I’m currently learning **Advance NLP**
-
-- 👯 I’m looking to collaborate on ِ **AI development and backend development**
+💞️ I’m looking to collaborate on security, blockchain and A.I. projects.
+- 👯 I’m looking to collaborate on ِ **AI Development, Back-End Development, Blockchain and Security projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amro-alasri](https://github.com/amro-alasri)
 
